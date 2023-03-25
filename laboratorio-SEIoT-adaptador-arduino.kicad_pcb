@@ -1649,7 +1649,7 @@
   (gr_text "A0" (at 150.775 66) (layer "F.SilkS") (tstamp 0d0a1276-6c53-401d-89b3-a0a364faec1c)
     (effects (font (size 1.2 1.2) (thickness 0.25)))
   )
-  (gr_text "0? GND\n3? 5V\n5? 5V" (at 163.6 105.4) (layer "F.SilkS") (tstamp 0df908b1-9165-400d-a2e8-49cfd5bda68a)
+  (gr_text "0? GND\n3? 5V\n5? 5V" (at 163.576 105.5116) (layer "F.SilkS") (tstamp 0df908b1-9165-400d-a2e8-49cfd5bda68a)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "09" (at 169 68.6) (layer "F.SilkS") (tstamp 0f9c40b7-1561-42f7-89dd-1c4aeb7fc76e)
