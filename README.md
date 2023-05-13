@@ -4,7 +4,9 @@
 
 ## O que é este projeto?
 
-Este projeto é um adaptador que permite a conexão da placa Arduino Uno com a placa [Laboratório de Sistemas Embarcados e IoT](https://github.com/Franzininho/laboratorio-SEIoT-Franzininho-Wifi) através de uma correspondência entre os pinos do Arduino Uno e a pinagem da Franzininho Wifi (placa utilizada no projeto da placa de laboratório). Para utilizar o adaptador basta conectá-lo ao Arduino como um shield e então conectar o adaptador na placa.
+Este projeto é um adaptador que permite a conexão da placa Arduino Uno com a placa [Laboratório de Sistemas Embarcados e IoT](https://github.com/Franzininho/laboratorio-SEIoT-Franzininho-Wifi) através de uma correspondência entre os pinos do Arduino Uno e a pinagem da Franzininho Wifi (placa utilizada no projeto da placa de laboratório). Para utilizar o adaptador basta conectá-lo ao Arduino como um shield e então conectar o adaptador na placa. 
+
+Esse projeto está sob a licença [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt)
 
 ## Codificação dos pinos de ativação
 
