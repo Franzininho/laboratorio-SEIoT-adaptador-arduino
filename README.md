@@ -10,7 +10,7 @@ Esse projeto está sob a licença [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2
 
 ## Codificação dos pinos de ativação
 
-Como a placa [Laboratório de Sistemas Embarcados e IoT](https://github.com/Franzininho/laboratorio-SEIoT-Franzininho-Wifi) conta com um sistema de codificação dos pinos de ativação dos periféricos, foi preciso codificar esses pinos. A codificação escolhida tem dois algorismos sendo que o primeiro indica a funcionalidade do pino e o segundo indica uma numeração do pino.
+Como a placa [Laboratório de Sistemas Embarcados e IoT](https://github.com/Franzininho/laboratorio-SEIoT-Franzininho-Wifi) conta com um sistema de codificação dos pinos de ativação dos periféricos, foi preciso codificar esses pinos. A codificação escolhida tem dois algarismos sendo que o primeiro indica a funcionalidade do pino e o segundo indica uma numeração do pino.
 
 O código de cada pino está impresso ao lado dele na placa principal e para facilitar a utilização do adaptador foi impresso nele a correspondência entre o pino do Arduino e o código de ativação na placa. Essa correspondência também pode ser acessada [clicando aqui](./informacoes/mapeamento.md).
 
