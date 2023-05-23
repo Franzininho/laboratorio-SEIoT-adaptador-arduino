@@ -20,6 +20,11 @@ Além disso, também foi desenvolvida uma biblioteca para uso em conjunto com o 
 
 O projeto foi desenvolvido com o software [KiCad 7](https://www.kicad.org/). Esse software é aberto e está disponível para Linux, MacOS e Windows.
 
+## Certificação OSHWA
+[![](./imagens/registro.svg)](https://certification.oshwa.org/br000013.html)
+
+[Clique aqui](https://certification.oshwa.org/br000013.html) para acessar
+
 ---
 
 #### Feito por [LelePG](https://github.com/LelePG)
